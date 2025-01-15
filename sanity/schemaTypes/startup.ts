@@ -29,7 +29,7 @@ export const startup = defineType({
             type:'number'
         }),
         defineField({
-            name:'decription',
+            name:'description',
             type:'text'
         }),
         defineField({
